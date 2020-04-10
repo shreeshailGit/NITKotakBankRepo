@@ -8,6 +8,7 @@ public class Test {
 		Utility u =new Utility();
 	System.out.println(u.getSysdate());
 	System.out.println("Test.main()::Hi this is Dev2");
+	System.out.println("ABCD");
 	}
 
 }
